@@ -1,0 +1,19 @@
+{
+  "name": "infocenter",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.php",
+  "dependencies": {
+    "lessc": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "less": "lessc styles/styles.less styles/styles.css"
+  },
+  "keywords": [
+    "test",
+    "php"
+  ],
+  "author": "A.Gerasimenko <felix_1969@bk.ru>",
+  "license": "ISC"
+}
